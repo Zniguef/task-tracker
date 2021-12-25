@@ -1,16 +1,22 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "First task",
-      "day": "Monday 03:40pm",
-      "reminder": true
+      "text": "Food Shipping",
+      "day": "Friday 05:00PM",
+      "reminder": true,
+      "id": 1
     },
     {
-      "id": 2,
-      "text": "Food Shopping",
-      "day": "Friday 05:20pm",
-      "reminder": false
+      "text": "test task 2",
+      "day": "task2",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Meeting at school",
+      "day": "Monday 09:30AM",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
