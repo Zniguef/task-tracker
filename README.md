@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+### If you want run this app in localhost you shoud run : 
+    npm start & npm run server
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
